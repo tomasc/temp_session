@@ -1,5 +1,7 @@
 # Temp Session
 
+![Build Status](https://travis-ci.org/tomasc/temp_session.svg)](https://travis-ci.org/tomasc/temp_session) [![Gem Version](https://badge.fury.io/rb/temp_session.svg)](http://badge.fury.io/rb/temp_session) [![Coverage Status](https://img.shields.io/coveralls/tomasc/temp_session.svg)](https://coveralls.io/r/tomasc/temp_session)
+
 Rails Engine with a controller that handles the following process:
 * user submits email address
 * receives a link that sets a session and lets him/her sign in
